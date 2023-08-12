@@ -1,5 +1,6 @@
+=======
 i want to merge test.txt please do that i will inform thanks
-
+main
 
 
 hello this is text txt file
